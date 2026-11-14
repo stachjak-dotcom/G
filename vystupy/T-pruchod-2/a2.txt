@@ -1,0 +1,17 @@
+ukol: T-pruchod-2
+pokus: a2
+otiskBaliku: 08ccfd042e684393843ea82570117fe4ef6f4082658eaf7c7abf45bf73247f0d
+
+1. Porovnání:
+- GPT (1), návaznost přes revizi, cestu a otisk: Claudovy závěry ji přímo neřeší; doplňuje jeho důraz na doslovné podklady (3).
+- GPT (2), neprokázaná schopnost zápisu z metadat: podporuje Claudovo (1), že tvrzení je nutné nezávisle ověřovat, ale týká se jiné oblasti.
+- GPT (3), rozdíl mezi pověřením, deklarovaným aktérem a zapisovatelem: podporuje Claudovo (2) a (3), zejména riziko výkladu lidského rozhodnutí.
+- GPT (4), dohledatelná korekce H/G/C i riziko zastaralých dokumentů: doplňuje Claudovo (3) a (4). Samotný záznam nezaručuje správný další výklad.
+Přímý rozpor mezi uvedenými body nevidím.
+
+2. Chybí:
+- Výslovné oddělení skutečného zapisovatele od deklarovaného aktéra a zdroje lidského pověření.
+- Označení platnosti starších závěrů, aby se nepřebíraly po korekci.
+
+3. První věta do dokumentu:
+„Záznam musí odlišit zdroj sdělení, výklad, zapisovatele a platnost závěru; jejich dohledatelnost sama ještě nedokazuje správnost výkladu.“
