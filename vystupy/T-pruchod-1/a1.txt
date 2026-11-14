@@ -1,0 +1,25 @@
+ukol: T-pruchod-1
+pokus: a1
+otiskBaliku: 3c6fb1fb9817e67ae20cf7250f140b627129710506656be1111b98cfd5b06a80
+
+1. Pokrytí zadání člověka
+
+- Navázat na existující zadání a PLAN-VYSTAVBY.md a opravit rozpory se skutečností: žádný bod výslovně. Obsah plánu v předaných textech chybí, takže soulad nelze posoudit.
+- Doložit dokončení souvislým funkčním průchodem: úvod návrhu spojuje P1–P10 v jedné databázi a požaduje nezávislé zopakování. Je to návrh způsobu doložení.
+- Uchovat obsah a původ: P1. Zachovat vztahy, včetně změny zařazení a odvolání: P2.
+- Připravit a obnovit úkol s podklady: P3 a P4. P5 řeší situaci, kdy některý nezbytný podklad přestane platit nebo chybí.
+- Skutečné předání a návrat výsledku: P7. P6 popisuje omezené a odvolatelné oprávnění.
+- Zásah člověka: P8; P6 dodává odvolatelnost. P8 má prokázat účinek skutečného zásahu na konkrétní pokus.
+- Rozlišit výsledek, ověření a přijetí: P9. P10 doplňuje následné posouzení po změně podkladu.
+- Společně vymezit hranice a proveditelnost podle zdrojů a prostředí: žádný bod výslovně. P7 vyžaduje druhou běžící relaci, ale neurčuje dostupný způsob předání.
+- Nepředstírat spuštění, oprávnění ani integraci simulovanou odpovědí: P7 výslovně vyžaduje skutečnou relaci a odpověď navázanou na balík; P8 vyžaduje zásah člověka. P6 sám nedokládá, kdo oprávnění skutečně udělil a na jakém základě.
+
+2. Co zadání člověka výslovně nepožaduje
+
+P5 (blokace po změně podkladů) a P10 (nové posouzení po odevzdání) přidávají nové podmínky. P3 konkretizuje zadání jako zaznamenaný úkon, P4 vyžaduje reprodukci k jedné revizi a P6 volí záznam omezeného grantu. To jsou návrhové volby se vztahem k cíli. Totéž platí pro konkrétní vztahy v P2, pravidlo pro pozdní odpověď v P8 a provedení jedním příkazem nad jednou databází.
+
+3. Tři mezery před doložením dokončení
+
+- Porovnat P1–P10 s konkrétní revizí PLAN-VYSTAVBY.md a u zjištěných rozporů zapsat opravu nebo přesně vymezený rozdíl.
+- Doložit proveditelnost a skutečné předání. Uvést, odkud plyne oprávnění, kdo připravil balík, kdo ověřil jeho otisk a jak se skutečná odpověď z jiné relace zapsala k témuž pokusu a otisku.
+- Doložit skutečný zásah člověka do aktivního pokusu a jeho účinek na pozdější odpověď. V důkazech průchodu zachovat zvlášť výsledek, nezávislé ověření a případné přijetí člověkem.
